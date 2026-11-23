@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ASH CIRCUIT",
+      "hasCanvas": true,
+      "bodyTextLen": 524,
+      "bodyTextHash": "19c3127d5200443994dca8b480fb33f30a790d8d4814497cddabd506a104d182",
+      "bodyTextPrefix": "ASH FLATS · STACKED IRON ASH CIRCUIT Guns, shovel spikes, and a ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ASH CIRCUIT",
+      "hasCanvas": true,
+      "bodyTextLen": 524,
+      "bodyTextHash": "19c3127d5200443994dca8b480fb33f30a790d8d4814497cddabd506a104d182",
+      "bodyTextPrefix": "ASH FLATS · STACKED IRON ASH CIRCUIT Guns, shovel spikes, and a ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND WARNING: this looks like a game/canvas app but /workspace/public/og.jpg is missing. Games and visually rich apps must ship a custom 1200x630 share card built from the app's own art — the default og.grok.me placeholder card is not acceptable for them. You are not done: open /workspace/.grok/skills/og/SKILL.md and finish the brand-asset pass."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
